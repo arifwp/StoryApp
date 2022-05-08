@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="first_title">Menangkan Hadiah Ratusan Juta</string>
+    <string name="first_subTitle">Tertarik untuk mencoba slot? Ya disini aja dengan mbak mbak cantik dan setia menemani wd anda!</string>
+    <string name="login_title">Log In</string>
+    <string name="login_subTitle">Please input your credential!</string>
+    <string name="register_title">Create Account</string>
+    <string name="register_subTitle">Fill Your Details!</string>
+    <string name="input_name">Name</string>
+    <string name="input_email">Email</string>
+    <string name="input_password">Password</string>
+    <string name="button_register">Register</string>
+    <string name="button_login">Log In</string>
+    <string name="required">Required</string>
+    <string name="dummy_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="dummy_date">25 April 2022</string>
+    <string name="dummy_name">Arif Wahyu Prasetyo</string>
+    <string name="text_desc">Write Description</string>
+    <string name="text_upload">Upload</string>
+    <string name="select_image">Select Your Image From :</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+</resources>
